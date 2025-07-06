@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.16)
+project(Lab1)
+add_executable(                          
+  ${PROJECT_NAME}
+  ConsoleIn.cpp
+  ConsoleOut.cpp
+  GameContr.cpp                        
+  Ship.cpp
+  ShipInfo.cpp
+  Manager.cpp
+  ImproperShipPlacement.cpp
+  ShotOOB.cpp
+  NoSpells.cpp
+  corruptedSave.cpp
+  Map.cpp
+  DoubleDamage.cpp
+  Scanner.cpp
+  Barrage.cpp
+  SpellBook.cpp
+  GameState.cpp
+  Game.cpp
+  main.cpp
+)

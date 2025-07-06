@@ -1,0 +1,35 @@
+Game Settings
+5 5 1
+Player ships
+1 r 0 0
+Computer Ships
+1 d 1 4
+Player map
+1****
+*****
+*****
+*****
+*****
+Player field
+*****
+*****
+*****
+*****
+1****
+Computer map
+*****
+*****
+*****
+*****
+*1***
+Computer field
+*****
+*****
+*****
+*****
+*****
+Ability
+3
+Barrage
+Scanner
+DoubleDamage
